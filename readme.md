@@ -4,9 +4,9 @@
 Ce projet implémente un service de streaming vidéo en temps réel utilisant WebRTC pour transmettre le flux d'une webcam entre deux ordinateurs.
 
 ## Structure
-- `server.py` : Serveur WebRTC qui capture la webcam et transmet le flux
-- `client.py` : Client WebRTC qui reçoit et affiche le flux vidéo
-- `environment.yaml` : Fichier de configuration de l'environnement conda
+-server.py: Serveur WebRTC qui capture la webcam et transmet le flux
+-client.py: Client WebRTC qui reçoit et affiche le flux vidéo
+- environmental.yaml: Fichier de configuration de l'environnement conda
 
 ## Installation
 
