@@ -12,8 +12,8 @@ Ce projet implémente un service de streaming vidéo en temps réel utilisant We
 
 1. Cloner le dépôt :
   
-   git clone [URL_DU_REPO]
-   cd [NOM_DU_DOSSIER]
+   git clone https://github.com/serine-4/labo3-webrtc.git
+   cd labo3-webrtc
 
 2.Créer l'environnement conda :
 
